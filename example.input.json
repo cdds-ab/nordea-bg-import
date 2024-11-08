@@ -1,0 +1,28 @@
+{
+    "creation_date": "2024-11-07",
+    "sender_customer_number": "111111",
+    "sender_bankgiro_number": "2222222",
+    "payments": [
+        {
+            "payment_date": "2024-11-24",
+            "bank_account": "123456789",
+            "amount": "25000.00",
+            "employment_info": "197804201122",
+            "payment_identification": "202411 VName"
+        },
+        {
+            "payment_date": "2024-11-24",
+            "bank_account": "2345678901",
+            "amount": "30000.00",
+            "employment_info": "197904132233",
+            "payment_identification": "202411 VName2"
+        },
+        {
+            "payment_date": "2024-11-24",
+            "bank_account": "3456789012",
+            "amount": "20000.00",
+            "employment_info": "1999205139123",
+            "payment_identification": "202411 VName3"
+        }
+    ]
+}
